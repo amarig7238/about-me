@@ -7,5 +7,37 @@ High School of Telecommunication Arts and Technology
 
 ---
 
-Amari grew up in the big city and loves to dance. He lives at home with his mom and dad. He is aan only child.
+* _Amari grew up in the big city and loves to dance._
+
+* _He lives at home with his mom and dad._
+
+* _He is an only child._
+
+**Schedule**
+
+1. ELA
+
+
+2. Spanish 2
+
+
+3. Big History Project
+
+
+4. AP World History
+
+
+5. SEP 10
+
+
+6. Lunch
+
+
+7. Chemistry
+
+
+8. Algebra 2
+
+
+
 
