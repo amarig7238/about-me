@@ -38,6 +38,6 @@ High School of Telecommunication Arts and Technology
 
 8. Algebra 2
 
-
+[Here is a link to my portfolio where there will be more projects to be added soon.](https://amarig7238.github.io/index.html)
 
 
